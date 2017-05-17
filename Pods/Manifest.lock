@@ -1,0 +1,12 @@
+PODS:
+  - HDAugmentedReality (2.0.0)
+
+DEPENDENCIES:
+  - HDAugmentedReality (~> 2.0)
+
+SPEC CHECKSUMS:
+  HDAugmentedReality: 6548c4197828eb9ae98ec203c56ebd5e535396b5
+
+PODFILE CHECKSUM: f73fdb0239f0ac1cfb59777e3ed43af2411980fe
+
+COCOAPODS: 1.2.1
